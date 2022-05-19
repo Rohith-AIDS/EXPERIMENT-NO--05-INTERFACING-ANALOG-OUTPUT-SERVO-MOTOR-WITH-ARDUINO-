@@ -92,6 +92,7 @@ s1.write(i);
 ~~~
 
 ### OUTPUT:
+![gitlogo](1234servo.jpg)
 
 
 
